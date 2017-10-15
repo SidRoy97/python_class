@@ -1,0 +1,61 @@
+Assignment 2
+Data Structures :
+a) Create a structure associating the states of India with their 
+   important cities
+	maharashtra  : mumbai pune nasik
+	karnataka    : bangalore mysore
+	tamilnad     : chennai madurai
+	i) add nagpur 
+	ii) find the no. of cities in each state
+	iii) remove madurai
+
+b) create a data structure to hold event info.
+          name
+          detail
+	  date
+		dd
+		mm
+		yy
+	  people
+			
+	create a list of events
+	arrange them in chronological order	
+          
+c) create a data structure to hold
+	dept id, dept name, list of emp in the dept
+	i) find # of emp in each dept
+	ii) find which dept has the highest number of emp
+
+d) experiment :
+	i) can the key of a dict be a list ?  
+	ii) can the key of a dict be a tuple ?  
+
+
+
+Files :
+
+a) given a file of words,
+	i) find unique words
+	ii) find # of occurrences of each word
+	iii) find whether a given word occurs in the file
+
+b) given two files, each having a word on each line,
+   and words are in order, combine the two files to get
+   a new file with words in order
+
+c) given a file having empname and dept, create a
+   a) dict where dept is the key and value is a single string having all emp names
+   b) dict where dept is the key and value is a list of emp  names
+
+d) given a file of lines, 
+	i) find the offset to each line of the file
+	ii) read the ith line using the offset 
+
+e)  given two files, compare the lines.
+    find which lines are same in both, which are in the 
+    first and not in the second, which are in the second
+    and not in the first
+
+f) break the file book.txt into # of files based on the name of the
+   author
+

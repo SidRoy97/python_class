@@ -1,0 +1,47 @@
+
+Python
+Assignment 1
+Topics : variables, control structures, lists & dictionaries
+0.
+	a) find sum of digits of a number
+	b) find factorial of a given number
+1. 
+	a)Find the greatest common divisor of two numbers
+	b) validate a given date (dd mm yyyy)
+	c) find the next date
+	d) generate prime numbers
+
+2. Generate following patterns, given n (say 4)
+   1 0 0 0
+   0 1 0 0
+   0 0 1 0
+   0 0 0 1
+
+   1 + 2 + 3 + 4 = 10
+
+   1 = 1
+   1 + 2 = 3
+   1 + 2 + 3 = 6
+   1 + 2 + 3 + 4 = 10
+
+               1 =  1
+           1 + 2 =  3
+       1 + 2 + 3 =  6
+   1 + 2 + 3 + 4 = 10
+
+3. Store  fall of wickets into a list.
+   a) find partnership for each wicket - store in a list
+   b) find highest partnership
+
+4. Create a list where each element of the list contains empid, empname, basic, da, hra.
+   Find the salary for each person. 
+   Store the result in a dictionary with empid as the key and total salary as the value.
+
+5. Create a dictionary where the key is a tuple containing name of a state and a city and
+   value is a list indicating places of interest in that city.
+   provide mechanisms for adding a new key, adding or modifying or removing values from the list
+
+6. 	a) simulate a 2D array and generate
+		magic square
+	b) generate pascal triangle
+

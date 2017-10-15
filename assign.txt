@@ -1,0 +1,27 @@
+
+play with an ordered list
+play with tree  
+play with  doubly linked list
+play with binary search tree
+
+Solve:
+cannibal missionery problem
+8 queens problem
+
+find all files which are modified in a given time interval of time.
+	- use functional programming
+	- use list comprehension
+
+given a sequence of values, write functions to find
+	mean
+	median
+	mode
+	variance
+	std dev
+	quartiles
+	outliers
+
+Can we support the above functions for frequency table also?
+
+
+

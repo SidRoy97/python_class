@@ -1,0 +1,50 @@
+1. what happens?
+a)
+  
+a = 10; b = 10
+while a = b :
+	print(a)
+
+b)
+a = 10
+while a < 20 :
+	print(a)
+	a++
+c)
+a = [[11, 22], [33, 44]]
+b = a[0]
+b.append(55)
+print(b)
+print(a)
+
+d)
+a = [[10]] * 5
+a[0] =  100
+print(a)
+
+e)
+a = [11, 22, 33, 44]
+a.extend(55)
+print(a)
+
+f)
+a = [10, 20, 30, 40]
+b = a
+c = [10, 20, 30, 40]
+print(a == b)
+print(a == c)
+
+g) 
+what are these?
+a[10]
+a['ten']
+
+h)
+a = [11, 22, 33]
+a.append(a)
+print(a)
+
+
+
+
+
