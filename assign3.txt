@@ -1,18 +1,29 @@
 1. files
-   a) insert a message in the beginning of each file
-   b) insert a message at the end of each file
-   c) match a line in a file and pickup n lines below and
-      n lines above
-   d) walk thro a number files and stop as soon as a file 
-      has the given string
-   e) walk thro a number of files, xfer all files with some
-      particular string to another directory
+ 
+ 	a) insert a message in the beginning of each file
+   
+	b) insert a message at the end of each file
+   
+	c) match a line in a file and pickup n lines below and
+ n lines above
+   
+	d) walk thro a number files and stop as soon as a file has the given string
+   
+	e) walk thro a number of files, xfer all files with some
+ particular string to another directory
+
+
 2. functions
-   a) gcd of two numbers
-   b) factorial
-   c) sort : support callbacks to compare
-   d)  search an element in a sequence based on a criterion
-   - not necesarily equality
-   e) merge two sorted lists
+
+   	a) gcd of two numbers
+   
+	b) factorial
+   
+	c) sort : support callbacks to compare
+   
+	d) search an element in a sequence based on a criterion
+ - not necesarily equality
+   
+	e) merge two sorted lists
 
 
